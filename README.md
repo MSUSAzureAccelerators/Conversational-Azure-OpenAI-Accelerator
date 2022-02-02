@@ -1,4 +1,4 @@
-![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.jpg)
+![Conversational AI Solution Accelerator](./images/Conversational%20AI%20Solution%20Accelerator%20Banner.png)
 
 # Conversational AI Solution Accelerator
 
