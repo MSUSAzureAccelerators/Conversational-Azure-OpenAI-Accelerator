@@ -17,3 +17,6 @@
  [Demo 2 - Expanding Your Content](https://vimeo.com/578610828/dc121d0ecf?embedded=true&source=video_title&owner=98548747)
  
  [Demo 3 - Analytics-Driven Optimization](https://vimeo.com/578612056/483c00f2b2?embedded=true&source=video_title&owner=98548747)
+ 
+ ## Architecture
+ ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
