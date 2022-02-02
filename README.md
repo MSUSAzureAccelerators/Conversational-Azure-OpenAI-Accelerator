@@ -1,4 +1,4 @@
-![Conversational AI Solution Accelerator](./images/Conversational%20AI%20Solution%20Accelerator%20Banner.png)
+![Conversational AI Solution Accelerator](./images/Conversation%20AI%20Solution%20Accelerator%20Banner.png)
 
 # Conversational AI Solution Accelerator
 
