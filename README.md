@@ -7,6 +7,9 @@
 
  The Modernized Contact Center Conversational AI Solution Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
 
+ ## Architecture
+ ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
+ 
 ## Demo Environment
  Info about the generic demo environment here
  
@@ -19,5 +22,4 @@
  
  [Demo 3 - Analytics-Driven Optimization](https://vimeo.com/578612056/483c00f2b2?embedded=true&source=video_title&owner=98548747)
  
- ## Architecture
- ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
+
