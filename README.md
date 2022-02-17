@@ -11,8 +11,6 @@
  ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
  
 ## Demo Environment
- Info about the generic demo environment here
- 
  If you want to schedule a demo that is custimized to your business, [Please fill out this form](https://zammo.ai/demo/) and someone will get back to you with further information.
 
 ## Demo Videos 
