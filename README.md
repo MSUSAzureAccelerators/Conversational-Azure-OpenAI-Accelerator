@@ -15,6 +15,8 @@
 
 ## Demo Videos 
  [Demo - Retail](https://vimeo.com/649234598/47bba3ab71?embedded=true&source=video_title)
+ 
+ [Demo - SLG](https://vimeo.com/672165562/ad0b053d7c?embedded=true&source=video_title)
 
  [Demo 1 - Simple Setup and Deployment](https://vimeo.com/578609724/970bdbadb5?embedded=true&source=video_title&owner=98548747)
  
