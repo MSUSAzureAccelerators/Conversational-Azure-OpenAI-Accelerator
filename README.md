@@ -2,7 +2,7 @@
 
 # Conversational AI Accelerator
 
-## About this solution
+## About this accelerator
  Customer experiences within retail are trending toward conversational AI technology. Each day, millions of US customers use multiple communication channels to inform their purchase decisions, make returns, and seek general assistance.
 
  The Conversational AI Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
