@@ -1,11 +1,11 @@
 ![Conversational AI Solution Accelerator](./images/Conversation%20AI%20Solution%20Accelerator%20Banner.png)
 
-# Conversational AI Solution Accelerator
+# Conversational AI Accelerator
 
 ## About this solution
  Customer experiences within retail are trending toward conversational AI technology. Each day, millions of US customers use multiple communication channels to inform their purchase decisions, make returns, and seek general assistance.
 
- The Modernized Contact Center Conversational AI Solution Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
+ The Conversational AI Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
 
  ## Architecture
  ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
