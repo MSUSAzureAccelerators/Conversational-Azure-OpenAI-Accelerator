@@ -11,19 +11,19 @@
  * Mutlilingual and accessible communications are costly and critical for quality service
  * Call routing can be complex and slow, requiring multiple handoffs and long wait times
  * High cost of hiring, training and retaining agents
- * Employee satisfaction and time are lost to manual call routing and responding to simple and repititive questions
+ * Employee satisfaction and time are lost to manual call routing and responding to simple and repetitive questions
  * Insights from communications are not being captured to drive optimization
  * Nonrelevant responses from traditional IVR and chatbot systems
- * Meeting customer expectations for 24/7 service can be cost rehibitive to support
+ * Meeting customer expectations for 24/7 service can be cost prohibitive to support
  
  ## Benefits
- * #Automate multilingual# intelligent responses
- * Provide a digital communication experience that is accessible and ADA compliant
- * Manage fluctuations and increases in volume without hiring more agents
- * Implement efficient and effective call routing strategies
- * Boost workforce productivity by addressing routine inquiries
- * Handle the bulk of call volume, leaving agents for more nuanced conversations
- * Provide improved customer access with 24/7 support and addres routine and repetivie inquires six-times faster
+ * **Automate multilingual** intelligent responses
+ * Provide a digital communication experience that is **accessible and ADA compliant**
+ * **Manage fluctuations and increases in volume** without hiring more agents
+ * Implement **efficient and effective call routing** strategies
+ * **Boost workforce productivity** by addressing routine inquiries
+ * Handle the bulk of call volume, leaving **agents for more nuanced conversations**
+ * Provide **improved customer access with 24/7 support** and address routine and repetitive inquires six-times faster
  
 
  ## Architecture
