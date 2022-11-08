@@ -17,7 +17,7 @@
  * Meeting customer expectations for 24/7 service can be cost rehibitive to support
  
  ## Benefits
- * Automate multilingual intelligent responses
+ * #Automate multilingual# intelligent responses
  * Provide a digital communication experience that is accessible and ADA compliant
  * Manage fluctuations and increases in volume without hiring more agents
  * Implement efficient and effective call routing strategies
@@ -30,7 +30,7 @@
  ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
  
 ## Demo Environment
- If you want to schedule a demo that is custimized to your business, [Please fill out this form](https://zammo.ai/demo/) and someone will get back to you with further information.
+ If you want to schedule a demo that is customized to your business, [Please fill out this form](https://zammo.ai/demo/) and someone will get back to you with further information.
 
 ## Demo Videos 
  [Demo - Retail](https://vimeo.com/649234598/47bba3ab71?embedded=true&source=video_title)
