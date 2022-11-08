@@ -2,7 +2,6 @@
 
 # Conversational AI Accelerator
 
-## About this accelerator
  Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency. Local government agencies are facing near-constant change in their information environments. This can be especially challenging when existing sytems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
  The Conversational AI Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
