@@ -1,6 +1,6 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# Conversational AI Accelerator
+# Conversational AI with Azure OpenAI Accelerator
 
  Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency. Local government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
