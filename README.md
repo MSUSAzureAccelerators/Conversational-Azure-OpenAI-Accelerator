@@ -1,36 +1,37 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# Conversational AI with Azure OpenAI Accelerator
+# Azure OpenAI (ChatGPT) Accelerator
 
- Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency. Local government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
+**Rapid POC tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners welcome. POC is white-labeled.**
 
- The Conversational AI Accelerator enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system. It provides customers with 24/7 bot assistance that can converse in human-like dialogue, respond intelligently, and capture content, all while providing valuable insights for content optimization and strategic decision-making.
+Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency. Organizations need to be able to communicate with their audience with fast and accurate information. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions (FAQ). 
+
+The Azure OpenAI Accelerator enables simultaneous deployment of conversational content to chatbots, IVR, voice assistants and more in one click. This accelerator solution has virtually eliminated the need for in-depth IT involvement by providing a feature-rich platform that any user can navigate, regardless of their technical background. It provides customers with 24/7 automated assistance, leveraging OpenAI’s powerful ChatGPT language engine, combined with the Azure Conversational Language Understanding (CLU) and LUIS natural language processing (NLP) capabilities. This results in a conversational experience that can converse in human-like dialogue, respond intelligently, and capture content, all captured in omni-channel unified analytics which provides valuable insights to improve customer experience.   
  
  
  ## Challenges
- * Multilingual and accessible communications are costly and critical for quality service.
- * Call routing can be complex and slow, requiring multiple handoffs and long wait times.
- * High cost of hiring, training and retaining agents.
- * Employee satisfaction and time are lost to manual call routing and responding to simple and repetitive questions.
- * Insights from communications are not being captured to drive optimization.
- * Nonrelevant responses from traditional IVR and chatbot systems.
- * Meeting customer expectations for 24/7 service can be cost prohibitive to support.
+* Staff is overwhelmed with repetitive questions & tasks consuming employee time and company costs 
+* Customer expectations for 24/7 support and services  
+* With a focus on inclusion and accessibility compliance, enterprises want to operate with multi-lingual capabilities and across channels 
+* With so many channels of communication with customers and employees, businesses are drowning in channel-specific data and need consolidated analytics 
  
  ## Benefits
- * **Automate multilingual** intelligent responses.
- * Provide a digital communication experience that is **accessible and ADA compliant**.
- * **Manage fluctuations and increases in volume** without hiring more agents.
- * Implement **efficient and effective call routing** strategies.
- * **Boost workforce productivity** by addressing routine inquiries.
- * Handle the bulk of call volume, leaving **agents for more nuanced conversations**.
- * Provide **improved customer access with 24/7 support** and address routine and repetitive inquires six-times faster.
+* Quickly leverage the most advanced technology, such as Azure OpenAI and ChatGPT, without a massive technical lift to learn how to build, connect and deploy each individual building block 
+* Benefit from a 100% Azure solution that leverages dozens of Azure AI and data services, in a unique voice-first architecture, and resides on the customer Azure subscription, with a one-click deployment from the Azure Marketplace 
+* Automatically generate conversational content from your existing content repositories, then simultaneously publish to multiple channels including website chatbots, IVR, voice assistants, Teams chatbot, etc. 
+* Develop multi-turn conversational experiences and connect to backend systems and/or other Azure services like Cognitive Search, Document Translation, Custom Voice, AI Personalizer, Recommendation Engine, Speaker Verification, etc. 
+* Rapidly augment existing IVR system by adding a conversational AI layer vs. Long, expensive rip and replace projects  
+* Provide improved user-experience with 24/7 support and address routine and repetitive inquires much faster 
+* Avoid lengthy and complex IT projects with a solution live in days or weeks not months or years 
+* Automate multilingual intelligent responses with direct integration to Azure Translation Services 
+* Provide a digital communication experience that is accessible and ADA compliant. 
+* Templated, industry-specific conversation libraries can be re-used or easily modified to accelerate content creation and scale quickly 
  
-
  ## Architecture
  ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
  
 ## Demo Environment
- If you want to schedule a demo that is customized to your business, [Please fill out this form](https://zammo.ai/demo/) and someone will get back to you with further information.
+If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at SolAccel@Microsoft.com. 
 
 ## Demo Videos 
  [Demo - Retail](https://vimeo.com/649234598/47bba3ab71?embedded=true&source=video_title)
