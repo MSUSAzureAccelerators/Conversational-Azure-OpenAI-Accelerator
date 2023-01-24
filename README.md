@@ -1,12 +1,12 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# Azure OpenAI (ChatGPT) Accelerator
+# Conversational Azure OpenAI (ChatGPT) Accelerator
 
 **Rapid POC tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners welcome. POC is white-labeled.**
 
 Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency. Organizations need to be able to communicate with their audience with fast and accurate information. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions (FAQ). 
 
-The Azure OpenAI Accelerator enables simultaneous deployment of conversational content to chatbots, IVR, voice assistants and more in one click. This accelerator solution has virtually eliminated the need for in-depth IT involvement by providing a feature-rich platform that any user can navigate, regardless of their technical background. It provides customers with 24/7 automated assistance, leveraging OpenAI’s powerful ChatGPT language engine, combined with the Azure Conversational Language Understanding (CLU) and LUIS natural language processing (NLP) capabilities. This results in a conversational experience that can converse in human-like dialogue, respond intelligently, and capture content, all captured in omni-channel unified analytics which provides valuable insights to improve customer experience.   
+The Conversational Azure OpenAI Accelerator enables simultaneous deployment of conversational content to chatbots, IVR, voice assistants and more in one click. This accelerator solution has virtually eliminated the need for in-depth IT involvement by providing a feature-rich platform that any user can navigate, regardless of their technical background. It provides customers with 24/7 automated assistance, leveraging OpenAI’s powerful ChatGPT language engine, combined with the Azure Conversational Language Understanding (CLU) and LUIS natural language processing (NLP) capabilities. This results in a conversational experience that can converse in human-like dialogue, respond intelligently, and capture content, all captured in omni-channel unified analytics which provides valuable insights to improve customer experience.   
  
  
  ## Challenges
