@@ -31,7 +31,7 @@ The Conversational Azure OpenAI Accelerator enables simultaneous deployment of c
  ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
  
 ## Demo Environment
-If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at SolAccel@Microsoft.com. 
+If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at OpenAIAccel@Microsoft.com. 
 
 ## Demo Videos 
  [Demo - Retail](https://vimeo.com/649234598/47bba3ab71?embedded=true&source=video_title)
