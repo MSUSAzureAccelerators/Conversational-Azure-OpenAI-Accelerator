@@ -28,15 +28,18 @@ The Conversational Azure OpenAI Accelerator enables simultaneous deployment of c
 * Templated, industry-specific conversation libraries can be re-used or easily modified to accelerate content creation and scale quickly 
  
  ## Architecture
- ![Conversational AI Solution Accelerator Architecture](./images/Conversational%20AI%20Architecture.png)
+ ![Conversational Azure OpenAI Accelerator Architecture](./images/OPENAI%20Architecture%20Diagram.png)
+
  
 ## Demo Environment
 If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at OpenAIAccel@Microsoft.com CC: Azure_AI_Accelerator@zammo.ai. 
 
 ## Demo Videos 
- [Demo - Retail](https://vimeo.com/649234598/47bba3ab71?embedded=true&source=video_title)
+ [Demo - Insurance](https://vimeo.com/789102100/75473778d3)
  
- [Demo - SLG](https://vimeo.com/672165562/ad0b053d7c?embedded=true&source=video_title)
+ [Demo - Government](https://vimeo.com/792724682/9552dcba9e)
+ 
+ [Demo - Financial Services](https://vimeo.com/783752844/fccd38afd9)
 
  [Demo 1 - Simple Setup and Deployment](https://vimeo.com/578609724/970bdbadb5?embedded=true&source=video_title&owner=98548747)
  
