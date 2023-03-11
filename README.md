@@ -40,7 +40,11 @@ If you want to schedule a demo that is customized to your use case, and also ena
  [Demo - Government](https://vimeo.com/792724682/9552dcba9e)
  
  [Demo - Financial Services](https://vimeo.com/783752844/fccd38afd9)
-
+ 
+ [Demo - Education](https://vimeo.com/806037988/60a8102d5c)
+ 
+ [Demo - Health Services](https://vimeo.com/797103031/6c711ec844)
+ 
  [Demo 1 - Simple Setup and Deployment](https://vimeo.com/578609724/970bdbadb5?embedded=true&source=video_title&owner=98548747)
  
  [Demo 2 - Expanding Your Content](https://vimeo.com/578610828/dc121d0ecf?embedded=true&source=video_title&owner=98548747)
