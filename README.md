@@ -55,6 +55,14 @@ If you want to schedule a demo that is customized to your use case, and also ena
  
  [Demo 3 - Analytics-Driven Optimization](https://vimeo.com/578612056/483c00f2b2?embedded=true&source=video_title&owner=98548747)
  
+ ## Customer Stories 
+[Montgomery County Government (Maryland) uses Azure AI-based Zammo.ai to support successful COVID-19 vaccination program](https://customers.microsoft.com/en-us/story/1354241398257818859-zammo-ai-partner-professional-services-cognitive-services)
+
+[Washington governments respond to COVID-19 with Microsoft chatbots](https://www.microsoft.com/en-us/industry/microsoft-in-business/business-transformation/2020/07/24/washington-governments-respond-to-covid-19-with-microsoft-chatbots/)
+
+[Zammo.ai SaaS platform powered by Azure OpenAI Service](https://customers.microsoft.com/en-us/story/1618376584724698898-zammo-professional-services-azure-openai-services)
+ [Zammo bring conversational AI and chatbots to customers](https://customers.microsoft.com/EN-US/story/1345814013982373610-zammo-professional-services-azure-en-united-states)
+ 
 ## License
 Copyright (c) Microsoft Corporation
 
