@@ -47,6 +47,8 @@ If you want to schedule a demo that is customized to your use case, and also ena
  
  [Demo - Retail](https://vimeo.com/809941410/b97bbb775f)
  
+ [Demo - Manufacturing](https://vimeo.com/820587608/266d1e636e?share=copy)
+ 
  [Demo 1 - Simple Setup and Deployment](https://vimeo.com/578609724/970bdbadb5?embedded=true&source=video_title&owner=98548747)
  
  [Demo 2 - Expanding Your Content](https://vimeo.com/578610828/dc121d0ecf?embedded=true&source=video_title&owner=98548747)
