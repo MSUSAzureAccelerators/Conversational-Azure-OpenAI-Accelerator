@@ -2,7 +2,7 @@
 
 # Conversational Azure OpenAI (ChatGPT) Accelerator
 
-**Rapid POC tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners welcome. POC is white-labeled.**
+**Rapid Custom Demo tailored to customer use case, focused on top two use cases of generating conversation and summarization. Systems Integrator (SI) partners welcome. POC is white-labeled.**
 
 Automating conversations across voice and text channels is a valuable, even essential, way to save money and improve customer and employee experience. Yet the slow, complex and expensive traditional process has blocked progress. Today, however, the era of manually curating knowledge bases is officially over.
 
