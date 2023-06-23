@@ -60,7 +60,7 @@ If you want to schedule a demo that is customized to your use case, and also ena
  [Demo 3 - Analytics-Driven Optimization](https://vimeo.com/578612056/483c00f2b2?embedded=true&source=video_title&owner=98548747)
  
  ## Customer Stories 
-[First case study globally documenting the success of ChatGPT using only customer data, City of Kelowna]. (https://customers.microsoft.com/en-us/story/1641166525350342888-city-of-kelowna-government-azure-open-ai-service).
+[First case study globally documenting the success of ChatGPT using only customer data, City of Kelowna](https://customers.microsoft.com/en-us/story/1641166525350342888-city-of-kelowna-government-azure-open-ai-service).
 
 [Zammo brings conversational AI, cross-platform voice apps, and chatbots to customers with Microsoft Azure Cloud Services](https://customers.microsoft.com/EN-US/story/1345814013982373610-zammo-professional-services-azure-en-united-states)
 
