@@ -39,11 +39,11 @@ The Accelerator enables simultaneous deployment of conversational content to cha
 If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at OpenAIAccel@Microsoft.com CC: Azure_AI_Accelerator@zammo.ai. 
 
 ## Demo Videos 
- [Demo - Insurance](https://vimeo.com/789102100/75473778d3)
+ [Demo - Insurance](https://vimeo.com/792353110/314f63bbc3?share=copy)
  
- [Demo - Government](https://vimeo.com/792724682/9552dcba9e)
+ [Demo - Government](https://vimeo.com/792722191/6aa7391024?share=copy)
  
- [Demo - Financial Services](https://vimeo.com/783752844/fccd38afd9)
+ [Demo - Financial Services](https://vimeo.com/791949738/72dd087931?share=copy)
  
  [Demo - Education](https://vimeo.com/806037988/60a8102d5c)
  
@@ -60,6 +60,8 @@ If you want to schedule a demo that is customized to your use case, and also ena
  [Demo 3 - Analytics-Driven Optimization](https://vimeo.com/578612056/483c00f2b2?embedded=true&source=video_title&owner=98548747)
  
  ## Customer Stories 
+[First case study globally documenting the success of ChatGPT using only customer data, City of Kelowna].(https://customers.microsoft.com/en-us/story/1641166525350342888-city-of-kelowna-government-azure-open-ai-service)
+
 [Zammo brings conversational AI, cross-platform voice apps, and chatbots to customers with Microsoft Azure Cloud Services](https://customers.microsoft.com/EN-US/story/1345814013982373610-zammo-professional-services-azure-en-united-states)
 
 [Zammo.ai SaaS platform powered by Azure OpenAI Service](https://customers.microsoft.com/en-us/story/1618376584724698898-zammo-professional-services-azure-openai-services)
