@@ -41,13 +41,13 @@ If you want to schedule a demo that is customized to your use case, and also ena
 ## Demo Videos 
  [Contoso Insurance Zammo-Azure OpenAI Demo](https://vimeo.com/792353110/314f63bbc3?share=copy)
  
- [Demo - Government](https://vimeo.com/792722191/6aa7391024?share=copy)
+ [Contoso Government Zammo-Azure OpenAI Demo](https://vimeo.com/792722191/6aa7391024?share=copy)
  
- [Demo - Financial Services](https://vimeo.com/791949738/72dd087931?share=copy)
+ [Contoso Financial Services Zammo-Azure OpenAI Demo](https://vimeo.com/791949738/72dd087931?share=copy)
  
- [Demo - Education](https://vimeo.com/806037988/60a8102d5c)
+ [Contoso Higher Education Zammo-Azure OpenAI Demo](https://vimeo.com/806037988/60a8102d5c?share=copy)
  
- [Demo - Health Services](https://vimeo.com/797103031/6c711ec844)
+ [Contoso Health Services Zammo-Azure OpenAI Demo](https://vimeo.com/797103031/6c711ec844?share=copy)
  
  [Demo - Retail](https://vimeo.com/809941410/b97bbb775f)
  
