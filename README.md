@@ -6,7 +6,7 @@
 
  [GovTech Magazine published this interview with project lead Shayna. Very favorable quotes about Microsoft, Azure AI and Zammo.ai. Love how she as a non-technical PM explains Zammo's implementation of Azure AI RAG--so relatable to every city, county and state.](https://www.govtech.com/blogs/lohrmann-on-cybersecurity/montgomery-county-md-s-chatbot-shows-genai-in-action)
  
- [GBB AI / Zammo go technical deep dive video](https://zammoai-my.sharepoint.com/:w:/g/personal/audreyr_zammo_ai/EX-dshCkxH9HsxNZDqPoi44BV-lY473h-4VDUhalD5eAOg?e=BEfzTp&xsdata=MDV8MDJ8di1hYXJyYW50c0BtaWNyb3NvZnQuY29tfGM4YmM3NWEyMjRlMDQ4NTI0ZWNkMDhkY2FjMTBmMmE3fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzg1NzQ0MzYwNzE0NzQwMTV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=SUNoVmdQbFZuR0YyeUlPVXkxbmJ5UmRFV0x6d0NlYVRJU0JKNUozM1J0Yz0%3d))
+ [GBB AI / Zammo go technical deep dive video](https://zammoai-my.sharepoint.com/:w:/g/personal/audreyr_zammo_ai/EX-dshCkxH9HsxNZDqPoi44BV-lY473h-4VDUhalD5eAOg?e=BEfzTp&xsdata=MDV8MDJ8di1hYXJyYW50c0BtaWNyb3NvZnQuY29tfGM4YmM3NWEyMjRlMDQ4NTI0ZWNkMDhkY2FjMTBmMmE3fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzg1NzQ0MzYwNzE0NzQwMTV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=SUNoVmdQbFZuR0YyeUlPVXkxbmJ5UmRFV0x6d0NlYVRJU0JKNUozM1J0Yz0%3d)
 
 Automating conversations across voice and text channels is a valuable, even essential, way to save money and improve customer and employee experience. Yet the slow, complex and expensive traditional process has blocked progress. Today, however, the era of manually curating knowledge bases is officially over.
 
