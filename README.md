@@ -36,7 +36,7 @@ The Accelerator enables simultaneous deployment of conversational content to cha
 
  
 ## Demo Environment
-If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at OpenAIAccel@Microsoft.com CC: Azure_AI_Accelerator@zammo.ai. 
+If you want to schedule a demo that is customized to your use case, and also enable direct customer access, request a rapid POC via email at OpenAIAccel@Microsoft.com CC: AzureOpenAI@zammo.ai. 
 
 ## Demo Videos 
  [Contoso Insurance Zammo-Azure OpenAI Demo](https://vimeo.com/792353110/314f63bbc3?share=copy)
