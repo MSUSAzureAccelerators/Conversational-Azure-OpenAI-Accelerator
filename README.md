@@ -9,8 +9,7 @@ Here are two examples of customers — using this GenAI Accelerator and only in-
 
 2. California State University (CSU System - [video highlights and quotes from their "CSU Tech Connect AI in July" pulic event series](https://microsoft.sharepoint.com/:w:/r/teams/CAF-SolutionAccelerators/_layouts/15/Doc.aspx?sourcedoc=%7BFAA8684F-7FE3-42F7-8396-56D83083E232%7D&file=%E2%80%98AI%20in%20July%E2%80%99%20CSU%20Event%20Highlights%20%E2%80%93%20Zammo.ai.docx&action=default&mobileredirect=true&share=IQFPaKj643_3QoOWVtgwg-IyAWePxWqaSBJpSP2M3L0v2_Q&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTc4MzAuMjAxMTIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=555333C5-3AC6-4655-A86B-75AAC76D885D&wdLOR=cF483B623-8EC0-4C15-ADBE-3A627BDFB1D3).
 
-Demos of three different campuses and customer teams showing off their Azure-via-Zammo automated conversation projects, including:
-- IT Help Desk
+Demos of three different campuses and customer teams showing off their Azure-via-Zammo automated conversation projects, including:- IT Help Desk
 - Accessibility Technology Initiative (ATI)
 - Student Grade Checker with backend integration to Canvas Learning Management System (LMS)—API integration completed in three weeks using only in house resources
 
