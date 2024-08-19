@@ -5,9 +5,9 @@
 **Rapid, no-cost Custom Demo tailored to customer use cases, from internal HR/IT to external contact center to training, teaching and learning for public, consumers, constituents, students, faculty or staff. Focused on top use cases of GenAI conversation and summarization, plus live backend data integration.**
 
 Here are two examples of customers — using this GenAI Accelerator and only in-house resources to deploy valuable automated conversations:
-1. [GovTech Magazine interview of Monty 2.0 Program Manager (PM) Shayna Taqi]([https://www.govtech.com/blogs/lohrmann-on-cybersecurity/montgomery-county-md-s-chatbot-shows-genai-in-action]) from Montogomery County, Maryland.
+1. [GovTech Magazine interview of Monty 2.0 Program Manager (PM) Shayna Taqi](https://microsoft.sharepoint.com/:b:/t/CAF-SolutionAccelerators/EU2mFzOCwS1Hu_XcvTvuLLUBLFB4NJx3Bz07Vq-XIM-S4g?e=0m5vIb) from Montogomery County, Maryland.
 
-2. California State University (CSU System - [video highlights and quotes from their "CSU Tech Connect AI in July" pulic event series](https://microsoft.sharepoint.com/:b:/t/CAF-SolutionAccelerators/EWW5kAuHQtdAorojqyBXy2YBxBZ8cEekCGBw3w-V6KeJuw?e=P3zonT).
+2. California State University (CSU System - [video highlights and quotes from their "CSU Tech Connect AI in July" pulic event series](https://microsoft.sharepoint.com/:b:/t/CAF-SolutionAccelerators/EWW5kAuHQtdAorojqyBXy2YBNOqDeV_v6qEAmDRFYid-Og?e=BOHyhp).
 
 Demos of three different campuses and customer teams showing off their Azure-via-Zammo automated conversation projects, including:
 - IT Help Desk
